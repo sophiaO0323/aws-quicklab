@@ -37,6 +37,7 @@
 ![image](https://github.com/user-attachments/assets/280d61e3-c4dc-4e3d-8483-561f110121c1)
 
 6. 選擇上傳[.zip file]
+
 ![image](https://github.com/user-attachments/assets/23844390-c02a-4b95-b512-23715bf0b271)
 
 7. 點選[Upload]，選擇lambda_1.zip的檔案
